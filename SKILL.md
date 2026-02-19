@@ -3,8 +3,8 @@ name: stoic-relationship-guidance
 description: A Stoic framework for maintaining equanimity and responding virtuously when dealing with difficult people.
 license: MIT
 metadata:
+  version: 1.0.5065
   author: sethmblack
-  version: 1.0.5064
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - stoic-relationship-guidance
