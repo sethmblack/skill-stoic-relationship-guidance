@@ -4,7 +4,8 @@ description: A Stoic framework for maintaining equanimity and responding virtuou
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.5064
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - stoic-relationship-guidance
 - writing
